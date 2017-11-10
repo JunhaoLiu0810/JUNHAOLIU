@@ -1,1 +1,2 @@
-# JUNHAOLIU
+# cse 340 project 3 
+83/83, 7/7. 12/12, 22/22
